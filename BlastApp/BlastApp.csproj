@@ -310,6 +310,7 @@
     <Content Include="Connected Services\Application Insights\ConnectedService.json" />
     <None Include="Properties\PublishProfiles\AppServerAT - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\BlastApp2 - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\BlastApp2-BlastAppDeploy - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.1.1.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />

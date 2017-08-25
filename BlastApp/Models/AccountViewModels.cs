@@ -71,7 +71,7 @@ namespace BlastApp.Models
     {
         [Required]
         [EmailAddress]
-        [Display(Name = "Emails1")]
+        [Display(Name = "Emails")]
         public string Email { get; set; }
 
         [Required]
