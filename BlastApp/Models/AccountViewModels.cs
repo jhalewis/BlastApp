@@ -8,7 +8,7 @@ namespace BlastApp.Models
     public class ExternalLoginConfirmationViewModel
     {
         [Required]
-        [Display(Name = "Emails")]
+        [Display(Name = "Email")]
         public string Email { get; set; }
 
         [Display(Name = "Hometown")]
@@ -71,7 +71,7 @@ namespace BlastApp.Models
     {
         [Required]
         [EmailAddress]
-        [Display(Name = "Email")]
+        [Display(Name = "Emails")]
         public string Email { get; set; }
 
         [Required]
