@@ -93,7 +93,7 @@ namespace BlastApp.Models
     {
         [Required]
         [EmailAddress]
-        [Display(Name = "Email")]
+        [Display(Name = "Email Account")]
         public string Email { get; set; }
 
         [Required]
